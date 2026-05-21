@@ -96,7 +96,7 @@ module veenie::profile {
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Veeni3-Pappi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Veeni3-Pappi&theme=dark&hide_border=false)<br/>
-
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeni3-Pappi&bg_color=0d0d0d&color=00fff7&line=7b2fff&point=ff00c8&area=true&area_color=7b2fff&hide_border=false&border_color=00fff722&title_color=00fff7&custom_title=Veeni3-Pappi%20%7C%20Contribution%20Activity%20Graph)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Veeni3-Pappi&icon=0&color=0)](https://visitcount.itsvg.in)
