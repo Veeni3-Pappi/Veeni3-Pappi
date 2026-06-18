@@ -173,17 +173,24 @@
   </tr>
 </table>
 <br><br>
+  
 </div>
 ---
 
 ## `// github_stats`
-![](https://github-readme-stats.shion.dev/api?username=Veeni3-Pappi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Veeni3-Pappi&theme=dark&hide_border=false)<br/>
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeni3-Pappi&bg_color=0d0d0d&color=00fff7&line=7b2fff&point=ff00c8&area=true&area_color=7b2fff&hide_border=false&border_color=00fff722&title_color=00fff7&custom_title=Veeni3-Pappi%20%7C%20Contribution%20Activity%20Graph)
+![](https://github-readme-stats.shion.dev/api?username=Veeni3-Pappi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=9B30FF&text_color=BF7FFF&icon_color=9B30FF&border_color=9B30FF)
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Veeni3-Pappi&theme=react&background=0D1117&stroke=9B30FF&ring=9B30FF&fire=BF7FFF&currStreakLabel=9B30FF&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeni3-Pappi&bg_color=0d0d0d&color=00fff7&line=7b2fff&point=ff00c8&area=true&area_color=7b2fff&hide_border=false&border_color=00fff722&title_color=00fff7&custom_title=Veenie3-Pappi%20%7C%20Contribution%20Activity%20Graph)
 
 ---
 
 </div>
+
 
 ---
 
